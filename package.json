@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homeworks_usinglibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaGreenFox/ajs-homeworks_usingLibrary.git"
+  },
+  "author": "SvetlanaGreenFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvetlanaGreenFox/ajs-homeworks_usingLibrary/issues"
+  },
+  "homepage": "https://github.com/SvetlanaGreenFox/ajs-homeworks_usingLibrary#readme",
+  "dependencies": {
+    "@svetlanagreenfox/ajs-homeworks_platforms": "^1.0.0"
+  }
+}
